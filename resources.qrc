@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/L30Legs.png</file>
+        <file>images/L30Trunk.png</file>
+    </qresource>
+</RCC>
